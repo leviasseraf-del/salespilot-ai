@@ -14,6 +14,7 @@ An English-only, portrait-friendly, green/white/gold donation and Shabbat inform
 ## Features in the demo
 
 - "Tap to Donate" button, choose an amount in ZAR, review and **simulate** payment.
+- After simulated donation, optional email receipt question: **Yes** requests an email address and previews a receipt; **No** completes immediately. Addresses remain in browser memory temporarily only and are not stored or transmitted in the demo.
 - No banking credentials are collected; no real payments or funds transfer.
 - Shabbat information display shows prayer times and Hebcal-calculated candle-lighting/Havdalah for Johannesburg, when available.
 - Shabbat Mevarchim information from Hebcal appears only when calendar events contain it; missing data is not invented.
@@ -24,7 +25,8 @@ An English-only, portrait-friendly, green/white/gold donation and Shabbat inform
 
 1. Obtain authorisation from Sandringham Shul to use its official identity/logo, branding, donation programmes and banking details. The double-S and square-armed menorah are an original *placeholder motif*, not a verified reproduction of an official logo.
 2. Confirm Shabbat candle lighting and Havdalah conventions, prayer schedule, holiday handling and rabbinic approval of the physical display.
-3. Add authentication, multi-device synchronisation, audit history and a secure admin backend; browser-local schedule storage is not a production workflow.
+3. For actual receipts: wait for a bank-verified successful transaction, ask for the email address only if a receipt is requested, deliver the receipt using a secure transactional email backend, handle delivery errors and retention under POPIA, and avoid claiming Section 18A tax status unless authorised.
+4. Add authentication, multi-device synchronisation, audit history and a secure admin backend; browser-local schedule storage is not a production workflow.
 4. Set up an approved FNB or other South African merchant acquiring account **in the beneficiary association's name**, complete bank onboarding, certified kiosk/contactless integration and bank-confirmed transaction callbacks.
 5. Agree donation receipts (including Section 18A only if authorised), privacy, financial reporting, merchant fees, support and reconciliation.
 6. Test on target 18.5-inch screen and any connected certified card reader.
