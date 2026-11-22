@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="94" fill="#064134"/><rect x="30" y="30" width="452" height="452" rx="75" fill="none" stroke="#d8b976" stroke-width="5"/><g fill="none" stroke="#e6d0a0" stroke-width="13" stroke-linejoin="miter"><path d="M167 160H95V248H167V345H90"/><path d="M345 160H417V248H345V345H422"/><path d="M256 128V359M229 160V359M283 160V359M202 199V359M310 199V359M175 246V359M337 246V359M175 359H337M247 387H265"/></g><text x="256" y="447" text-anchor="middle" font-size="36" font-family="Georgia,serif" fill="#edd8ad">GiveTouch</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="90" fill="#063e35"/>
+<rect x="24" y="24" width="464" height="464" rx="65" fill="none" stroke="#d8b976" stroke-width="5"/>
+<g transform="translate(46 106) scale(2)">
+<rect x="1.5" y="1.5" width="207" height="107" rx="3" fill="#fffcf2" stroke="#d8b976" stroke-width="2"/>
+<text x="24" y="88" font-family="Georgia,Times New Roman,serif" font-size="99" font-style="italic" font-weight="600" fill="#064134">S</text>
+<g transform="translate(210 0) scale(-1 1)"><text x="24" y="88" font-family="Georgia,Times New Roman,serif" font-size="99" font-style="italic" font-weight="600" fill="#064134">S</text></g>
+<g fill="none" stroke="#c49b32" stroke-linecap="square" stroke-linejoin="miter" stroke-width="4.3">
+<path d="M105 22V87 M92 23V42L105 75 M118 23V42L105 75 M80 23V34L105 83 M130 23V34L105 83 M68 23V30L105 91 M142 23V30L105 91"/>
+<path d="M98 92H112 M94 97H116"/>
+</g>
+<g fill="#c49b32"><path d="M68 9L64 16Q64 21 68 21Q72 21 72 16Z M80 9L76 16Q76 21 80 21Q84 21 84 16Z M92 9L88 16Q88 21 92 21Q96 21 96 16Z M105 6L101 15Q101 20 105 20Q109 20 109 15Z M118 9L114 16Q114 21 118 21Q122 21 122 16Z M130 9L126 16Q126 21 130 21Q134 21 134 16Z M142 9L138 16Q138 21 142 21Q146 21 146 16Z"/></g>
+</g>
+<text x="256" y="406" text-anchor="middle" font-size="43" font-family="Georgia,serif" fill="#fffcf2">GiveTouch</text>
+<path d="M148 423H364" stroke="#d8b976" stroke-width="3"/>
+</svg>
